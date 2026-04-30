@@ -1,7 +1,7 @@
 ## Tharun Arety
 
-M.Sc. Materials Science and Engineering candidate at the University of Augsburg,
-graduating September 2025. My work sits at the intersection of computational
+M.Sc. Materials Science and Engineering graduate at the University of Augsburg.
+My work sits at the intersection of computational
 structural mechanics, composite materials, and gradient-based optimization.
 
 I build frameworks that make optimization problems differentiable end-to-end —
